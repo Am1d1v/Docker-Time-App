@@ -2,7 +2,7 @@ FROM node
 
 WORKDIR /app
 
-EXPOSE 5000
+EXPOSE 5555
 
 COPY package*.json /app/
 
